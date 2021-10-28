@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+}
+
+.bg-color {
+    background-color: darkorchid !important;
+}
+
+.img-1 {
+    height: 400px !important;
+}
+
+.button-learn-more {
+    width: 150px !important;
+    height: 50px;
+    background-color: darkorchid;
+    color: white;
+}
+
+.form-control {
+    width: 300px !important;
+}
+.text-color{
+    color: darkorchid !important;
+}
+.title-explore {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.booknow{
+    color: darkorchid !important;
+}
+.img{
+    height: 60px !important;
+}
+.address-input{
+    width: 100% !important;
+}
